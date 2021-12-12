@@ -1,4 +1,4 @@
-# Exercise 1 - Create the App
+## Exercise 1 - Create the App
 
 In this exercise, you will launch App Engine Studio and create an application.
 
